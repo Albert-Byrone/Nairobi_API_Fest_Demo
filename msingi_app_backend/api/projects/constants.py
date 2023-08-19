@@ -1,0 +1,8 @@
+CREATED_PROJECT_SUCCESSFUL_MESSAGE = "Project has been created successfully"
+GET_PROJECTS_SUCCESSFUL_MESSAGE = "Projects have been successfully retrieved"
+UPDATE_PROJECT_SUCCESSFUL_MESSAGE = "Project has been updated successfully"
+PROJECT_NOT_FOUND_MESSAGE = "A project with the provided id does not exist"
+PROJECT_DELETED_SUCCESSFUL_MESSAGE = "Project has been deleted successfully"
+PROJECT_ALREADY_ASSIGNED_MESSAGE ="Project has been assigned to another user"
+PROJECT_NOT_COMPLETED_MESSAGE ="Project is not completed yet"
+PROJECT_REOPEN_SUCCESSFUL_MESSAGE = "Project has been successfully reopened"
