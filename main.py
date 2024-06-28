@@ -24,6 +24,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 app.include_router(project_routes, prefix="/v1")
+app.include_router(project_routes, prefix="/v2")
+
 
 get = app.get
 
