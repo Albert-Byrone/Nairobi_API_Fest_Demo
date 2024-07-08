@@ -6,3 +6,13 @@ PROJECT_DELETED_SUCCESSFUL_MESSAGE = "Project has been deleted successfully"
 PROJECT_ALREADY_ASSIGNED_MESSAGE ="Project has been assigned to another user"
 PROJECT_NOT_COMPLETED_MESSAGE ="Project is not completed yet"
 PROJECT_REOPEN_SUCCESSFUL_MESSAGE = "Project has been successfully reopened"
+CREATED_DEVELOPMENT_SUCCESSFUL_MESSAGE = "Development has been created successfully"
+GET_DEVELOPMENTS_SUCCESSFUL_MESSAGE = "Development have been successfully retrieved"
+UPDATE_DEVELOPMENT_SUCCESSFUL_MESSAGE = "Development has been updated successfully"
+DEVELOPMENT_NOT_FOUND_MESSAGE = "A development with the provided id does not exist"
+DEVELOPMENT_DELETED_SUCCESSFUL_MESSAGE = "Development has been deleted successfully"
+DEVELOPMENT_ALREADY_ASSIGNED_MESSAGE ="Development has been assigned to another user"
+DEVELOPMENT_NOT_COMPLETED_MESSAGE ="Development is not completed yet"
+DEVELOPMENT_REOPEN_SUCCESSFUL_MESSAGE = "Development has been successfully reopened"
+
+
